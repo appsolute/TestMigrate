@@ -10,7 +10,7 @@ import UIKit
 
 class DetailViewController: UIViewController {
 
-    var _detailItem: NSObject?
+//    var _detailItem: NSObject?
     var detailItem: NSObject? {
 //        get {
 //            return _detailItem
